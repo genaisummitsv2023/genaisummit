@@ -10,12 +10,12 @@ To run this project locally, you will need to follow these steps:
 
 1. Clone the repository:
     ```
-    git clone https://github.com/GPT-DAO/genaisummit.git
+    git clone https://github.com/genaisummitsv2023/genaisummit.git genaisummitsv2023 
     ```
 
 2. Navigate to the project directory:
     ```
-    cd genaisummit
+    cd genaisummitsv2023
     cd summit
     ```
 
